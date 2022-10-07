@@ -12,14 +12,15 @@ https://developer.mozilla.org/en-US/docs/Learn/Common_questions/set_up_a_local_t
 - Open guess_number.html
 
 ## Usage
-
-
+Numer from 1 to 100 generated automatically. Can be seen from the developers console.
+Insert number to the field.
+Press GO!
+See feedback.
+If number is correct "Play Again" button appears. By clicking it game can be plaid again
 
 ## TODO
-
-
-## Fix bugs
-
+- add css
+- add counter for guessing attempts
     
 ## Screenshot 
 
